@@ -12,4 +12,4 @@ This project is provided as-is and will likely not be updated.
 
 LICENSE
 
-This project is licensed under Creative Commons Legal Code – see the LICENSE. file for more details.
+This project is licensed under Creative Commons Legal Code – see the LICENSE.md file for more details.
