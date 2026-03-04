@@ -1,6 +1,6 @@
 README
 
-This repository contains information on the changes in paint due to light exposure. The information was gathered by master student studying painting/object conservation at the University of Oslo as part of an assessment given in course KONS4052. The aim of the assessment was to compare two different data sets, one quantitative in the form of colorimetry data and the other being a qualitative survey. These analysises where conducted on a total of 12 paint swatches were one part was totally covered from light, one part was covered using a UV-blovking TruVue glass, and the last part was left uncovered. 
+This repository contains information on the changes in paint due to light exposure. The information was gathered by master student studying painting/object conservation at the University of Oslo as part of an assessment given in course KONS4052. The aim of the assessment was to compare two different data sets, one quantitative in the form of colorimetry data and the other being a qualitative survey. These analysises where conducted on a total of 12 paint swatches were one part was totally covered from light, one part was covered using a UV-blocking TruVue glass, and the last part was left uncovered. 
 
 USE
 
