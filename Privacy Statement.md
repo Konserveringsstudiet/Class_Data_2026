@@ -6,14 +6,14 @@ The data is anonymised and falls outside the European Data Protection Regulation
 
 
 ## How is the data collected?
-The information is collected directly from participants in the form of a physical questionnaire and interviews. The participants have been anonymised and have consented to the use of their data contribution for research purposes.
+The information is collected directly from participants in the form of a physical questionnaire and interviews. The participants have been anonymised and have consented to the use of their data contributions for research purposes.
 
 
 ## What data is collected?
 
 The following categories of information are processed:
-- Essential information: Age, gender.
-- Health information: Colour perception.
+- Essential information: Age, gender
+- Health information: Colour perception
 
 
 ## How is the data used and stored?
