@@ -16,10 +16,11 @@ The following categories of information are processed:
 - Health information: Colour perception
 
 
-## How is the data used and stored?
+## How is the data used?
 The collected data is used to investigate how individuals of different ages, genders and colour vision perceive variations in colour values. The survey data is then compared to a set of colorimetry data. The dataset will be part of a larger student research project intended to be a multi year program. Hence, the timeline for data storage is not defined. 
 
-The survey data is used to create a data repository and will be published in an open-science data forum (https://zenodo.org/). 
+## How is the data stored?
+The survey data is used to create a GitHub data repository and will be published in an open-science data forum (https://zenodo.org/). 
 
 
 ## Data protection rights
