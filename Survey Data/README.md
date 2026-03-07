@@ -1,4 +1,4 @@
-Survey Methodology
+# Survey Methodology
 
 A perceptual survey was conducted to assess whether colour differences between three sections of a paint swatch were visually detectable. The swatch had been exposed to different light conditions for three months: one section was fully covered (control), one was covered with UV-filtering acrylic (TruVue Optium Museum Acrylic®, UV 99%), and one was left fully exposed to daylight.
 
