@@ -1,4 +1,4 @@
-Sample,Participant,Age,Sex,Colourblind,"1. How many, if any, contained areas with different shades of red do you see?",2. Can you tell the diffrence between 1 and 2?,3. Can you tell the diffrence between 2 and 3?,4. Can you tell the diffrence between 1 and 3?,"5A. Of 1, 2 and 3, which is the most different?",5B. What makes them different?,Light conditions,,,
+Sample,Participant,Age,Sex,Colourblind,"1. How many, if any, contained areas with different shades of red do you see?",2. Can you tell the difference between 1 and 2?,3. Can you tell the difference between 2 and 3?,4. Can you tell the difference between 1 and 3?,"5A. Of 1, 2 and 3, which is the most different?",5B. What makes them different?,Light conditions,,,
 1,1,20-29,Male,No,5,Somewhat visible,Somewhat visible,Very visible,3,Darker,Electric,,,
 1,2,50-59,Female,No,5,Somewhat visible,Somewhat visible,No Difference ,1,Lighter,Daylight,,,
 1,3,50-59,Male,No,4,Somewhat visible,No Difference ,Somewhat visible,1,Lighter,Daylight,,,
