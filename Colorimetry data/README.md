@@ -8,6 +8,8 @@ A Konica Minolta CM 700d spectrophotometer with a 3 mm opening. It has a Xenon l
 
 ## Data Dictionary 
 
+### Colourimetry data
+
 |  **_Field Name_**  | **_Data Types_** | **_Missing Values_** | **_Description_** | **_Example_** | **_Notes_** | 
 |:------------------:|:----------------:|:--------------------:|:-----------------:|:-------------:|:-----------:|
 | _Paint Mixture_ | alphabetical | n/a | The paint mixture used to create the sample. | A | Two mixtures created at different times without set mixing ratios. |
@@ -22,6 +24,8 @@ A Konica Minolta CM 700d spectrophotometer with a 3 mm opening. It has a Xenon l
 | _Covered a*_ | numerical |	n/a | The value of the colour hue on a spectrum between red and green, on the covered section of each sample. | 45,41 | | 
 | _Covered b*_ | numerical |	n/a | The value of the colour hue on a spectrum between blue and yellow, on the covered section of each sample. | 28,71 | 
 | _E_ | numerical |	n/a | The squared sum of the L*, a* and b* values. | 64,57 | It is calculated as: E=√((L*)^2+(a*)^2+(b*)^2) | 
+
+### DeltaE Data
 
 |  **_Field Name_**  | **_Data Types_** | **_Missing Values_** | **_Description_** | **_Example_** | **_Notes_** | 
 |:------------------:|:----------------:|:--------------------:|:-----------------:|:-------------:|:-----------:|
