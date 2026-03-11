@@ -12,4 +12,4 @@ This project is provided as-is and will likely not be updated. If you have quest
 
 ## License
 
-This project is licensed under Creative Commons Legal Code – see the LICENSE.md file for more details.
+This project is licensed under The Creative Commons Zero v1.0 (CC0) which waives copyright interest and dedicates it to the world-wide public domain. See the LICENSE.md file for more details.
