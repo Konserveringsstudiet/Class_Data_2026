@@ -8,7 +8,7 @@ A Konica Minolta CM 700d spectrophotometer with a 3 mm opening. It has a Xenon l
 
 ## Data Dictionary 
 
-### Colourimetry data
+### Colourimetry Data
 
 |  **_Field Name_**  | **_Data Types_** | **_Missing Values_** | **_Description_** | **_Example_** | **_Notes_** | 
 |:------------------:|:----------------:|:--------------------:|:-----------------:|:-------------:|:-----------:|
