@@ -12,7 +12,7 @@ The information is collected directly from participants in the form of a physica
 ## What data is collected?
 
 The following categories of information are processed:
-- Essential information: Age, gender
+- Essential information: Age, sex/gender
 - Health information: Colour perception
 
 
