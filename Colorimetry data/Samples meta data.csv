@@ -1,0 +1,12 @@
+Number;Direction;Sunlight;Paint mixture
+1;South;No;A
+2;East;Yes;A
+3;East;Yes;A
+4;North-west;No;A
+5;West;No;A
+6;South-west;Yes;A
+7;East;Yes;A
+8;North-east;No;A
+9;North-east;No;B
+10;East;Yes;A
+11;South-west;Yes;A
