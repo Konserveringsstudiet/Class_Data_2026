@@ -26,7 +26,7 @@ The survey data is used to create a GitHub data repository and will be published
 ## Data protection rights
 All participants have the right to basic information about the processing of their data contributions. The students at UiO's conservation study program have provided the information as outlined in this document. 
 
-Survey data cannot be linked to individuals due to the anonymisation of personal data. The access to, correction and removal of one's own information is therefore not possible. 
+Survey data cannot be linked to individuals due to the anonymisation of personal data. The access to, correction and removal of one's own information is therefore not feasible. 
 
 
 ## Contact information
