@@ -13,6 +13,6 @@ Participant responses were anonymised before inclusion in the dataset.
 | _Sample_ | numerical | n/a | An individual sample as seen in "Images all samples". | 7 | Samples have the same number in both survey and colourimetry data. | 
 | _Participant_ | numerical | n/a | Number of an unbiased individual taking the survey. | 6 | The surveys were taken at different times under different lighting conditions. | 
 | _Age_ | numerical | n/a | The age of the survey participant at the moment of taking the survey. | 30-39 | | 
-| _Sex_ | alphabetical | n/a | The biological sex of the survey participants. | Male | 
+| _Gender_ | alphabetical | n/a | The biological sex of the survey participants. | Male | 
 | _Colourblind_ | alphabetical | n/a | Whether the survey participant has colourblindness or colour vision deficiency. | No | 
 | _Light Conditions_ | alphabetical | n/a | The approximate lighting conditions at the time and place of the specific survey. | Daylight | 
