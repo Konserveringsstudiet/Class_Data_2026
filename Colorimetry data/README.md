@@ -11,7 +11,7 @@ A Konica Minolta CM 700d spectrophotometer with a 3 mm opening. It has a Xenon l
 |  **_Field Name_**  | **_Data Types_** | **_Missing Values_** | **_Description_** | **_Example_** | **_Notes_** | 
 |:------------------:|:----------------:|:--------------------:|:-----------------:|:-------------:|:-----------:|
 | _Paint Mixture_ | alphabetical | n/a | The paint mixture used to create the sample. | A | |
-| _Sample_ | numerical | n/a | An individual sample as seen in (reference to pictures). | 3 | Samples have the same number in both survey and colourimetry data. | 
+| _Sample_ | numerical | n/a | An individual sample as seen in "Images all samples". | 3 | Samples have the same number in both survey and colourimetry data. | 
 | _Uncovered L*_ | numerical | n/a | The value indicating the brightness of the uncovered section. | 40,31 | In L* values, the higher the number is the darker the colour is, with 100 being perfect black. | 
 | _Uncovered a*_ | numerical |	n/a | The value of the colour hue on a spectrum between red and green, on the uncovered section of each sample. | 47,06 | |
 | _Uncovered b*_ | numerical |	n/a | The value of the colour hue on a spectrum between blue and yellow, on the uncovered section of each sample. | 29,66 | |
