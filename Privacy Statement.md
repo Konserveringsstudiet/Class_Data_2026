@@ -30,4 +30,4 @@ Survey data cannot be linked to individuals due to the anonymisation of personal
 
 
 ## Contact information
-Email: vheimstad@gmail.com
+Email: vheimstad@gmail.com / khgimse@gmail.com
