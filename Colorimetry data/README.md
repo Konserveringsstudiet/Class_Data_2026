@@ -22,6 +22,10 @@ A Konica Minolta CM 700d spectrophotometer with a 3 mm opening. It has a Xenon l
 | _Covered a*_ | numerical |	n/a | The value of the colour hue on a spectrum between red and green, on the covered section of each sample. | 45,41 | | 
 | _Covered b*_ | numerical |	n/a | The value of the colour hue on a spectrum between blue and yellow, on the covered section of each sample. | 28,71 | 
 | _E_ | numerical |	n/a | The squared sum of the L*, a* and b* values. | 64,57 | It is calculated as: E=√((L*)^2+(a*)^2+(b*)^2) | 
-| _Covered vs. Uncovered_ | numerical |	n/a | The colour difference (ΔE) between the covered and uncovered sections of the samples. | 4,6 | ΔE is calculated as: ΔE*=√((ΔL*)^2+(Δa*)^2+(Δb*)^2) Where ΔL*, Δa*, and Δb* is the L*, a* or b* value of one of the three sections subtracted by the same value from another of the three sections.| 
-| _Covered vs. TruVue_ | numerical |	n/a | The colour difference (ΔE) between the covered and TruVue UV filter covered sections of the samples. | 1,92 |  ΔE is calculated as: ΔE*=√((ΔL*)^2+(Δa*)^2+(Δb*)^2) Where ΔL*, Δa*, and Δb* is the L*, a* or b* value of one of the three sections subtracted by the same value from another of the three sections. | 
-| _Uncovered vs. TruVue_ | numerical |	n/a | The colour difference (ΔE) between the uncovered and TruVue UV filter covered sections of the samples. | 2,78 | ΔE is calculated as: ΔE*=√((ΔL*)^2+(Δa*)^2+(Δb*)^2) Where ΔL*, Δa*, and Δb* is the L*, a* or b* value of one of the three sections subtracted by the same value from another of the three sections. | 
+
+|  **_Field Name_**  | **_Data Types_** | **_Missing Values_** | **_Description_** | **_Example_** | **_Notes_** | 
+|:------------------:|:----------------:|:--------------------:|:-----------------:|:-------------:|:-----------:|
+| _ΔE (DeltaE)_ | title | n/a  | The colour difference between two measurements. | | ΔE is calculated as: ΔE*=√((ΔL*)^2+(Δa*)^2+(Δb*)^2) Where ΔL*, Δa*, and Δb* is the L*, a* or b* value of one of the three sections' measurement subtracted by the same value from one of the other three sections. |
+| _Covered vs. Uncovered_ | numerical |	n/a | The colour difference (ΔE) between the measurments of the covered and uncovered sections. | 4,6 | | 
+| _Covered vs. TruVue_ | numerical |	n/a | The colour difference (ΔE) between the measurments of the covered and TruVue sections. | 1,92 | | 
+| _Uncovered vs. TruVue_ | numerical |	n/a | The colour difference (ΔE) between the measurments of the uncovered and TruVue sections. | 2,78 | | 
