@@ -1,6 +1,6 @@
 # Privacy statement
 
-This privacy statement describes what survey information has been collected and stored, and how it has been processed in relation to the research project "Fading of Madder Lake Pigment". The students in the conservation master’s program at the University of Oslo (2025-2027) are controllers for the collected data.
+This privacy statement describes what survey information has been collected and stored, and how it has been processed in relation to the student project "Fading of Madder Lake Pigment". The students in the conservation master’s program at the University of Oslo (2025-2027) are controllers for the collected data.
 
 The data is anonymised and falls outside the European Data Protection Regulation (GDPR). It is classified as green data (as defined in UiO's data classification guide), and is accessible in an open-source database.
 
